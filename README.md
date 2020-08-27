@@ -17,5 +17,5 @@ Notebook Name: Data Science Assessment - Sales Records Predictions.ipynb
 - Last months’ revenue share by product and by customer. 
 - Weighted average monthly sale price by volume
 3.	Data Cleaning and Encoding
-4.	Data Modelling in relation to time series-based revenue prediction.
+4.	Data Modelling (Using  Facebook's Prophet)in relation to time series-based revenue prediction.
 
