@@ -6,7 +6,7 @@ This is a prediction problem based on a time-series dataset of online sales of a
 
 Dataset has 1067371 sales records. Each record is identified by 8 attributes i.e. Invoice, StockCode, Description, Quantity, InvoiceDate,  Price,  Customer ID and Country . Individual descriptions are  found here    https://www.kaggle.com/mashlyn/online-retail-ii-uci#
 
-Dataset name: online_retail_II.csv
+Dataset name: online_retail_II.csv and can be found here https://www.kaggle.com/mashlyn/online-retail-ii-uci. I could not directly upload it here due to the 25MB size limitation.
 
 Notebook Name: Data Science Assessment - Sales Records Predictions.ipynb
 
